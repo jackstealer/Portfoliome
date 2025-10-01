@@ -1,9 +1,7 @@
 # 🚀 Modern Portfolio Website
 
 A stunning, fully responsive full-stack portfolio website built with React, Node.js, and modern web technologies. Features a beautiful dark theme with animated starfield background, smooth animations, and a complete backend for contact form functionality.
-![Uploading image.png…]()
 
-![Portfolio Screenshot](./screenshots/hero-section.png)
 
 ## ✨ Features
 
@@ -312,4 +310,3 @@ If you encounter any issues or have questions:
 =======
 # Portfoliome
 This my portfolio
->>>>>>> e6fd24f9687ba6d52710cce292f9194d7d2f07ce
